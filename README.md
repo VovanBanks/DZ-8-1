@@ -50,7 +50,7 @@
 
  В качестве ответа на задание добавьте ссылку на этот коммит в ваш md-файл с решением
  
- Ответ: https://github.com/VovanBanks/sys-pattern-homework/commit/7ae21c5732558c1b6348304caf5d821bf95c6a14
+ Ответ: https://github.com/VovanBanks/DZ-8-1/commit/7ae21c5732558c1b6348304caf5d821bf95c6a14
 
 ---
 
@@ -65,4 +65,4 @@
 
  В качестве ответа на задание добавьте ссылку на этот коммит в ваш md-файл с решением
  
- Ответ: https://github.com/VovanBanks/sys-pattern-homework/network
+ Ответ: https://github.com/VovanBanks/DZ-8-1/network
