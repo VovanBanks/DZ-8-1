@@ -39,7 +39,7 @@
 
  В качестве ответа на задание добавьте ссылку на этот коммит в ваш md-файл с решением
  
- Ответ: https://github.com/VovanBanks/sys-pattern-homework/commit/25fcdf0e0d8f0298124489f671bd5979dbba5341
+ Ответ: https://github.com/VovanBanks/DZ-8-1/commit/25fcdf0e0d8f0298124489f671bd5979dbba5341
 
 ### Задание 2
 
